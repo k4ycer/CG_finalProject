@@ -1,0 +1,14 @@
+﻿  terrain.cpp
+c:\users\eduardo torres\documents\eduardo\graficas\finalproject\finalproject\terrain.cpp(605): warning C4838: conversion from 'double' to 'GLfloat' requires a narrowing conversion
+c:\users\eduardo torres\documents\eduardo\graficas\finalproject\finalproject\terrain.cpp(607): warning C4838: conversion from 'double' to 'GLfloat' requires a narrowing conversion
+c:\users\eduardo torres\documents\eduardo\graficas\finalproject\finalproject\terrain.cpp(608): warning C4838: conversion from 'double' to 'GLfloat' requires a narrowing conversion
+c:\users\eduardo torres\documents\eduardo\graficas\finalproject\finalproject\terrain.cpp(730): warning C4101: 'in': unreferenced local variable
+c:\users\eduardo torres\documents\eduardo\graficas\finalproject\finalproject\terrain.cpp(779): warning C4838: conversion from 'double' to 'GLfloat' requires a narrowing conversion
+c:\users\eduardo torres\documents\eduardo\graficas\finalproject\finalproject\terrain.cpp(780): warning C4838: conversion from 'double' to 'GLfloat' requires a narrowing conversion
+c:\users\eduardo torres\documents\eduardo\graficas\finalproject\finalproject\terrain.cpp(781): warning C4838: conversion from 'double' to 'GLfloat' requires a narrowing conversion
+c:\users\eduardo torres\documents\eduardo\graficas\finalproject\finalproject\terrain.cpp(809): warning C4838: conversion from 'double' to 'GLfloat' requires a narrowing conversion
+c:\users\eduardo torres\documents\eduardo\graficas\finalproject\finalproject\terrain.cpp(810): warning C4838: conversion from 'double' to 'GLfloat' requires a narrowing conversion
+c:\users\eduardo torres\documents\eduardo\graficas\finalproject\finalproject\terrain.cpp(811): warning C4838: conversion from 'double' to 'GLfloat' requires a narrowing conversion
+c:\users\eduardo torres\documents\eduardo\graficas\finalproject\finalproject\terrain.cpp(812): warning C4838: conversion from 'double' to 'GLfloat' requires a narrowing conversion
+c:\users\eduardo torres\documents\eduardo\graficas\finalproject\finalproject\terrain.cpp(775): warning C4715: 'leerArchivo': not all control paths return a value
+  finalProject.vcxproj -> C:\Users\Eduardo Torres\Documents\Eduardo\Graficas\finalProject\Debug\finalProject.exe
